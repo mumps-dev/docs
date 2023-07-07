@@ -6,22 +6,16 @@ Reference standard mumps (RSM)
 https://gitlab.com/Reference-Standard-M/rsm  
 https://groups.google.com/g/comp.lang.mumps/c/jCU2Zyc4x5k/m/Jhq_yTxKBwAJ
 
-
 YottaDB:  
 https://gitlab.com/YottaDB  
-Getting started  
 https://yottadb.com/product/get-started/  
-Development Cycle  
 https://docs.yottadb.com/ProgrammersGuide/devcycle.html#overview-of-the-program-development-cycle  
-Octo - PowerBI  
 https://yottadb.com/connect-microsoft-analytics-and-business-intelligence-tools-to-octo/
-
 
 ## Mumps Development Committee (MDC)  
 https://groups.google.com/g/comp.lang.mumps/c/p5bY0LYnjKM/m/myYVR6sLBAAJ  
 https://groups.google.com/g/comp.lang.mumps/c/Hwrnr7O0cP8/m/_xm7NViEbhYJ  
 https://groups.google.com/g/comp.lang.mumps/c/oSp5Uc9S8vk/m/q96qVwMtIQYJ  
-
 
 ## M language guide  
 https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsUsersGuide.pdf
