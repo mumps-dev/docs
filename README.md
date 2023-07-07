@@ -32,9 +32,6 @@ https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsTutorial.pdf
 ## M pocket guide  
 http://vistaexpertise.net/bookstore/1995-standard-mumps-pocket-guide/1995-standard-mumps-pocket-guide.pdf
 
-## M programming - DEC - 1972  
-https://bitsavers.org/pdf/dec/pdp15/DEC-15-GXZC-D_MUMPS_Apr72.pdf
-
 ## M syntax  
 https://en.wikipedia.org/wiki/MUMPS_syntax
 
@@ -57,7 +54,6 @@ http://71.174.62.16/Demo/AnnoStd
 ## M Blogs  
 https://www.datasciencecentral.com/mumps-the-most-important-database-you-probably-never-heard-of  
 https://www.elys.com/blog/mumps-the-arcane-database-language-behind-our-electronic-medical-records
-
 
 ## M Books  
 https://www.amazon.com/Mumps-Programming-Language-Kevin-OKane-ebook/dp/B00MZIMA1M
