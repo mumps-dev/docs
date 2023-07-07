@@ -1,11 +1,41 @@
-# M[UMPS] development
+# MUMPS
+MUMPS (M) is a high performance transaction processing key–value database with integrated programming language.
+
+## M history   
+https://en.wikipedia.org/wiki/MUMPS
+
+## M syntax  
+https://en.wikipedia.org/wiki/MUMPS_syntax
+
+## M standard  
+http://71.174.62.16/Demo/AnnoStd
+
+## M language guide  
+https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsUsersGuide.pdf  
+https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsTutorial.pdf
+
+# M language forum
+https://groups.google.com/g/comp.lang.mumps
+
+## M pocket guide  
+http://vistaexpertise.net/bookstore/1995-standard-mumps-pocket-guide/1995-standard-mumps-pocket-guide.pdf
+
+## M example code  
+https://github.com/programarivm/mumps-examples
+
+## M books  
+https://www.amazon.com/Mumps-Programming-Language-Kevin-OKane-ebook/dp/B00MZIMA1M
+
+## M training  
+https://www.pioneerdatasys.com/site/train/m2s.html
+
+## M utilities  
+https://www.hardhats.org/tools/MUtilframe.html
 
 
 ## M implementations
-
 __Reference standard mumps (RSM)__  
 https://gitlab.com/Reference-Standard-M/rsm  
-https://groups.google.com/g/comp.lang.mumps/c/jCU2Zyc4x5k/m/Jhq_yTxKBwAJ
 
 __YottaDB__  
 https://gitlab.com/YottaDB  
@@ -14,42 +44,10 @@ https://docs.yottadb.com/ProgrammersGuide/devcycle.html#overview-of-the-program-
 https://yottadb.com/connect-microsoft-analytics-and-business-intelligence-tools-to-octo/
 
 
-## M annotated standard  
-http://71.174.62.16/Demo/AnnoStd
-
-## M development committee  
-https://groups.google.com/g/comp.lang.mumps/c/p5bY0LYnjKM/m/myYVR6sLBAAJ  
-https://groups.google.com/g/comp.lang.mumps/c/Hwrnr7O0cP8/m/_xm7NViEbhYJ  
-https://groups.google.com/g/comp.lang.mumps/c/oSp5Uc9S8vk/m/q96qVwMtIQYJ  
-
-## M language guide  
-https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsUsersGuide.pdf  
-https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsTutorial.pdf
-
-## M pocket guide  
-http://vistaexpertise.net/bookstore/1995-standard-mumps-pocket-guide/1995-standard-mumps-pocket-guide.pdf
-
-## M syntax  
-https://en.wikipedia.org/wiki/MUMPS_syntax
-
-## M history   
-https://en.wikipedia.org/wiki/MUMPS
-
-## M example code  
-https://github.com/programarivm/mumps-examples
-
-## M training  
-https://www.pioneerdatasys.com/site/train/m2s.html
-
-## M utilities  
-https://www.hardhats.org/tools/MUtilframe.html
-
 ## M blogs  
 https://www.datasciencecentral.com/mumps-the-most-important-database-you-probably-never-heard-of  
 https://www.elys.com/blog/mumps-the-arcane-database-language-behind-our-electronic-medical-records
 
-## M books  
-https://www.amazon.com/Mumps-Programming-Language-Kevin-OKane-ebook/dp/B00MZIMA1M
 
 ## M: Vista Programming  
 https://www.hardhats.org/tools/vpe/vpe_db.html  
