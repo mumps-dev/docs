@@ -32,8 +32,18 @@ https://www.pioneerdatasys.com/site/train/m2s.html
 M utilities  
 https://www.hardhats.org/tools/MUtilframe.html
 
+M blogs  
+https://www.datasciencecentral.com/mumps-the-most-important-database-you-probably-never-heard-of  
+https://www.elys.com/blog/mumps-the-arcane-database-language-behind-our-electronic-medical-records
 
-M implementations  
+M: Vista Programming  
+https://www.hardhats.org/tools/vpe/vpe_db.html  
+http://www.vistapedia.net/index.php/MUMPS_Overview  
+http://www.vistapedia.net/index.php/Introduction_To_Programming_VistA_with_MUMPS  
+http://www.vistapedia.net/index.php/VistA_Database_Globals  
+http://www.vistapedia.net/index.php/Object_Oriented_Programming_with_M  
+
+### M implementations  
 __Reference standard mumps (RSM)__  
 https://gitlab.com/Reference-Standard-M/rsm  
 
@@ -44,17 +54,6 @@ https://docs.yottadb.com/ProgrammersGuide/devcycle.html#overview-of-the-program-
 https://yottadb.com/connect-microsoft-analytics-and-business-intelligence-tools-to-octo/
 
 
-M blogs  
-https://www.datasciencecentral.com/mumps-the-most-important-database-you-probably-never-heard-of  
-https://www.elys.com/blog/mumps-the-arcane-database-language-behind-our-electronic-medical-records
-
-
-M: Vista Programming  
-https://www.hardhats.org/tools/vpe/vpe_db.html  
-http://www.vistapedia.net/index.php/MUMPS_Overview  
-http://www.vistapedia.net/index.php/Introduction_To_Programming_VistA_with_MUMPS  
-http://www.vistapedia.net/index.php/VistA_Database_Globals  
-http://www.vistapedia.net/index.php/Object_Oriented_Programming_with_M  
 
 
 
