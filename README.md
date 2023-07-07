@@ -23,7 +23,7 @@ https://groups.google.com/g/comp.lang.mumps/c/Hwrnr7O0cP8/m/_xm7NViEbhYJ
 https://groups.google.com/g/comp.lang.mumps/c/oSp5Uc9S8vk/m/q96qVwMtIQYJ  
 
 ## M language guide  
-https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsUsersGuide.pdf
+https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsUsersGuide.pdf  
 https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsTutorial.pdf
 
 ## M pocket guide  
