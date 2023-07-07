@@ -2,25 +2,28 @@
 
 
 ## M Implementations
-Reference standard mumps (RSM)  
+
+__Reference standard mumps (RSM)__  
 https://gitlab.com/Reference-Standard-M/rsm  
 https://groups.google.com/g/comp.lang.mumps/c/jCU2Zyc4x5k/m/Jhq_yTxKBwAJ
 
-YottaDB:  
+__YottaDB__  
 https://gitlab.com/YottaDB  
 https://yottadb.com/product/get-started/  
 https://docs.yottadb.com/ProgrammersGuide/devcycle.html#overview-of-the-program-development-cycle  
 https://yottadb.com/connect-microsoft-analytics-and-business-intelligence-tools-to-octo/
 
-## Mumps Development Committee (MDC)  
+
+## M Annotated Standard  
+http://71.174.62.16/Demo/AnnoStd
+
+## M Development Committee (MDC)  
 https://groups.google.com/g/comp.lang.mumps/c/p5bY0LYnjKM/m/myYVR6sLBAAJ  
 https://groups.google.com/g/comp.lang.mumps/c/Hwrnr7O0cP8/m/_xm7NViEbhYJ  
 https://groups.google.com/g/comp.lang.mumps/c/oSp5Uc9S8vk/m/q96qVwMtIQYJ  
 
 ## M language guide  
 https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsUsersGuide.pdf
-
-## M tutorial  
 https://www.cs.uni.edu/~okane/source/MUMPS-MDH/MumpsTutorial.pdf
 
 ## M pocket guide  
@@ -29,7 +32,7 @@ http://vistaexpertise.net/bookstore/1995-standard-mumps-pocket-guide/1995-standa
 ## M syntax  
 https://en.wikipedia.org/wiki/MUMPS_syntax
 
-## M   
+## M history   
 https://en.wikipedia.org/wiki/MUMPS
 
 ## M example code  
@@ -38,12 +41,8 @@ https://github.com/programarivm/mumps-examples
 ## M training  
 https://www.pioneerdatasys.com/site/train/m2s.html
 
-## M Utilities  
+## M utilities  
 https://www.hardhats.org/tools/MUtilframe.html
-
-## M Standards  
-http://71.174.62.16/Demo/AnnoStd
-
 
 ## M Blogs  
 https://www.datasciencecentral.com/mumps-the-most-important-database-you-probably-never-heard-of  
