@@ -51,10 +51,10 @@ https://www.elys.com/blog/mumps-the-arcane-database-language-behind-our-electron
 ## M Books  
 https://www.amazon.com/Mumps-Programming-Language-Kevin-OKane-ebook/dp/B00MZIMA1M
 
-## Vista/M: Fileman  
+## Vista Database 
 https://hardhats.org/fileman/MSCFILEMAN_1062.RSA
 
-## Vista/M: Programming
+## Vista Programming  
 https://www.hardhats.org/tools/vpe/vpe_db.html  
 http://www.vistapedia.net/index.php/MUMPS_Overview  
 http://www.vistapedia.net/index.php/Introduction_To_Programming_VistA_with_MUMPS  
