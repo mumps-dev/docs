@@ -22,6 +22,8 @@ http://vistaexpertise.net/bookstore/1995-standard-mumps-pocket-guide/1995-standa
 
 M example code  
 https://github.com/programarivm/mumps-examples
+http://71.174.62.16/Demo/AnnoStd?Frame=Main&Page=a100006
+
 
 M books  
 https://www.amazon.com/Mumps-Programming-Language-Kevin-OKane-ebook/dp/B00MZIMA1M
