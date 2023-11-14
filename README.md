@@ -1,4 +1,4 @@
-# MUMPS
+# M Programming Language
 MUMPS (M) is a high performance transaction processing key–value database with integrated programming language.
 
 __M history__  
